@@ -28,6 +28,7 @@ public class JobTitle {
 		super();
 		this.id = id;
 		this.title = title;
+		
 	}
 
 
